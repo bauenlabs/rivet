@@ -10,7 +10,7 @@ go get github.com/bauenlabs/rivet
 
 And then import in your application:
 ```go
-import "github.com/bauenlabs/scribe"
+import "github.com/bauenlabs/rivet"
 ```
 
 ## Usage
